@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Imdb Auto Score
-Plugin URI: https://github.com/trb
+Plugin URI: https://github.com/trb/IMDb-Auto-Score
 Description: Displays the imdb score for tagged items in a post, and
     links to the imdb page. Example: [imdb]The Walking Dead[/imdb]
 Version: 0.1
